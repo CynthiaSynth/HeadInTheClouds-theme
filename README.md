@@ -1,5 +1,5 @@
 # HeadInTheClouds-theme
-Flat theme for GTK3 and Gnome Shell
+Pleasant image-based light theme for GTK3 and Gnome Shell.
 
 ----
 ## Warning:
