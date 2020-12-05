@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=HeadInTheClouds
+Comment=Flat theme for GTK3 and Gnome Shell
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=HeadInTheClouds
+MetacityTheme=HeadInTheClouds
+IconTheme=Adwaita
+CursorTheme=Adwaita
+ButtonLayout=menu:minimize,maximize,close
